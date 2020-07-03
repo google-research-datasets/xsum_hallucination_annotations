@@ -39,7 +39,7 @@ could have been more challenging to do otherwise.
 
 The dataset consists of faithfulness and factuality annotations of abstractive
 summaries for the [XSum dataset](https://www.aclweb.org/anthology/D18-1206.pdf).
-We have collected 3 crowdsourced judgements for each of 500 x 5 document-system
+We have crowdsourced 3 judgements for each of 500 x 5 document-system
 pairs. This will be a valuable resource to the abstractive summarization
 community.
 
