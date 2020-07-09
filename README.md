@@ -72,6 +72,10 @@ is_factual: yes/no
 worker_id: 'wid_0', 'wid_1', 'wid_2'
 ```
 
+## License
+
+This dataset is released under the Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)).
+
 ## Contact us
 
 If you have a technical question regarding the dataset or publication, please
